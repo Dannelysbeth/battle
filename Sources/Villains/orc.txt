@@ -1,0 +1,5 @@
+Orc
+hp: 360
+strength: 380
+defense: 320
+speed: 10

@@ -1,0 +1,5 @@
+Assassin
+hp: 50
+strength: 10
+defense: 5
+speed: 85

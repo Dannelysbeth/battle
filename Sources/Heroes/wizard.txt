@@ -1,0 +1,7 @@
+Wizard
+hp: 260
+strength: 0
+mp: 330
+defense: 10
+speed: 98
+spellDefense: 250

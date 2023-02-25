@@ -1,0 +1,7 @@
+Sorcerer
+hp: 260
+strength: 0
+mp: 340
+defense: 10
+speed: 2
+spellDefense: 230

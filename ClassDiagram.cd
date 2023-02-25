@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Character" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAUAABgAgAAAECACgQAABAQAFAQi1QABGAAEAKAI=</HashCode>
+      <FileName>Character.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Villain" Collapsed="true">
+    <Position X="1" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAABAAgAAAECAAgAAABAQAAAAClAABAAAEACAI=</HashCode>
+      <FileName>Villain.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameView" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FI4tjSFekNNBHwEPGCGPQBjVKBqgPUKI3ZIgaQB8JZs=</HashCode>
+      <FileName>GameView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Creature" Collapsed="true">
+    <Position X="6.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAgAAAgAAABAAAAAxARCVggBQAABEAAAAAAA=</HashCode>
+      <FileName>Creature.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Button" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAEAAAAAAAAAAEAAAIAABAAAAAAAAAAAAAEIAEAAAA=</HashCode>
+      <FileName>Button.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameProgress" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAADACABAQEAAAEAAAADAAwAACACIAFQIAAoAAIE=</HashCode>
+      <FileName>GameProgress.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hero" Collapsed="true">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAgAABECAAgAAAhAQAAAAClAABAAAEAAAI=</HashCode>
+      <FileName>Hero.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DarkElf" Collapsed="true">
+    <Position X="2" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAECAAgAAIAAQAAAAClAIBAAAEAAAI=</HashCode>
+      <FileName>DarkElf.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Orc" Collapsed="true">
+    <Position X="3.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAECAAgAAAAAQAABAClAABAAAEAAAI=</HashCode>
+      <FileName>Orc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dragon" Collapsed="true">
+    <Position X="5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAgAAAEDAAgAAAAAQAAAAClAABAAAEAAAI=</HashCode>
+      <FileName>Dragon.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paladin" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAECAAgAAAAAQABAAClAABAAAEAAAI=</HashCode>
+      <FileName>Paladin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assassin" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAgAECAAgAAgAAQAAAAClAABAAAEAAAI=</HashCode>
+      <FileName>Assassin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sorcerer" Collapsed="true">
+    <Position X="6.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAgAAAECAggAAAAAQAAAAClAABAAAEAAAI=</HashCode>
+      <FileName>Sorcerer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Thief" Collapsed="true">
+    <Position X="3.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAgAAAECAAgAAAAAQAAAAClAABAAAEEAAI=</HashCode>
+      <FileName>Thief.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Warrior" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAgAAAECAAgAAAAAQAAAAClAQBAAAEAAAI=</HashCode>
+      <FileName>Warrior.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Elf" Collapsed="true">
+    <Position X="6.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAECAAgAAAAAQAAAAClAABIAAEAAAI=</HashCode>
+      <FileName>Elf.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wizard" Collapsed="true">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAgAAAECAAgAAAAAQAAAAClAAJAAAEAAAI=</HashCode>
+      <FileName>Wizard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

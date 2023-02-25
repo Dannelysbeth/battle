@@ -1,0 +1,3 @@
+C:\Users\USER\9ade8051-gr52-repo\Projekt\battle\x64\Debug\battle.exe
+C:\Users\USER\9ade8051-gr52-repo\Projekt\battle\x64\Debug\battle.pdb
+D:\my_stuff\studia\PK\heroes&vaillains\9ade8051-gr52-repo\Projekt\battle\x64\Debug\battle.exe

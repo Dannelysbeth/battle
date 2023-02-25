@@ -1,0 +1,7 @@
+Dark Elf
+hp: 160
+strength: 80
+mp: 70
+defense: 40
+speed: 78
+spellDefense: 50

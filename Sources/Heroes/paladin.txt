@@ -1,0 +1,7 @@
+Paladin
+hp: 380
+strength: 320
+mp: 120
+defense: 280
+speed: 20
+spellDefense: 130

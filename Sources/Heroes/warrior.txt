@@ -1,0 +1,5 @@
+Warrior
+hp: 360
+strength: 420
+defense: 380
+speed: 40

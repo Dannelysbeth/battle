@@ -1,0 +1,5 @@
+Dragon
+hp: 320
+strength: 190
+mp: 115
+defense: 230

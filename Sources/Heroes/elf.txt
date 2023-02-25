@@ -1,0 +1,7 @@
+Elf
+hp: 200
+strength: 50
+mp: 240
+defense: 140
+speed: 80
+spellDefense: 170
